@@ -15,8 +15,7 @@ This data set is an outcome of how the customer success team at Plum is performi
 emails. Column C: Group indicates the different teams at Plum. Share a view on:
 #### a. How are the efficiency numbers looking like? Can you share your views?
 #### b. Which groups are quick, slow etc. Create a table + relevant charts.
-#### c. What type of tickets are taking the most time to resolve? Create a table +
-relevant charts.
+#### c. What type of tickets are taking the most time to resolve? Create a table + relevant charts.
 #### d. Create the different type of data types we can infer from this data.
 
 ### Method of presentation:
